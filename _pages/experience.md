@@ -1,64 +1,17 @@
 ---
 layout: archive
-title: "Experience"
+title: "  "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<P>
+· 访学经历：日本京都大学（公派）<br/>
+· 授课经历：重庆师范大学（讲座）、重庆工贸技师学院（讲座）、重庆市雏鹰计划（授课）、重庆市巴蜀常春藤国际学校（授课）等<br/>
+· 工作经历：男装设计助理（2021）、女装设计助理（2021）等<br/>
+· 参会经历：上海纽约大学、南通大学等<br/>
+<P/>
+
 {% include base_path %}
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
