@@ -27,10 +27,10 @@ author:
   name             : "Li Zhou 黎洲"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shanghai,China"
+  employer         : "Donghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhouli@mail.dhu.edu.cn" 
 
   # Academic websites
   academia         : # URL
