@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 <P>
+Li Zhou，PhD(in progress), Born in 1999
 黎洲，博士（在读），1999年生人
 <P/>
 
 <p>
-<b>教育背景</b>：<br/>
+<b>Education background/教育背景</b>：<br/>
+Donghua University，College of Fashion and Design，PhD of Design Science（2025-）<br/>
+Southwest University，College of Sericulture, Textile and Biomass Sciences，Master of Design Science（2022-2025，Recommended for graduate admission without entrance examination）<br/>
+Chongqing Normal University，College of FineArts，Bachelor of Fashion and Apparel Design（2018-2022）<br/>
 东华大学，服装与艺术设计学院，设计学博士（2025-）<br/>
-西南大学，蚕桑纺织与生物质科学学院，设计学硕士（2022-2025，推荐免试），研究方向：染织艺术数智创新<br/>
-重庆师范大学，美术学院，服装与服饰设计学士（2018-2022），研究方向：服装服饰创新设计<br/>
+西南大学，蚕桑纺织与生物质科学学院，设计学硕士（2022-2025，推荐免试）<br/>
+重庆师范大学，美术学院，服装与服饰设计学士（2018-2022）<br/>
 <P/>
 
 
