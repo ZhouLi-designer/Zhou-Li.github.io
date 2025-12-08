@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <P>
-Li Zhou，PhD(in progress), Born in 1999
+Li Zhou，PhD(in progress), Born in 1999<br/>
 黎洲，博士（在读），1999年生人
 <P/>
 
