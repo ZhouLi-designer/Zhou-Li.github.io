@@ -9,7 +9,7 @@ redirect_from:
 
 <P>
 <b>访学经历</b>：<br/>
-1. 日本京都大学（公派），2025<br/>
+1. Kyoto University（京都大学，日本，公派），2025<br/>
 <P/>
 
 <P>
