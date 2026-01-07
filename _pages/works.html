@@ -10,13 +10,43 @@ redirect_from:
 {% include base_path %}
 
 <!-- 添加图片网格 -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 30px 0; justify-content: center;">
-  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease; max-width: 300px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 30px 0;">
+  <!-- 第一行第一张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
     <img src="{{ base_path }}/images/images1.png" alt="图片1" style="width: 100%; height: auto; object-fit: contain;">
     <div style="padding: 10px; text-align: center; font-size: 14px;">最后的赞歌1</div>
   </div>
+  
+  <!-- 第一行第二张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <img src="{{ base_path }}/images/最后的赞歌1.png" alt="最后的赞歌1" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="padding: 10px; text-align: center; font-size: 14px;">最后的赞歌2</div>
+  </div>
+  
+  <!-- 第一行第三张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <img src="{{ base_path }}/images/第1页.jpg" alt="第1页" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="padding: 10px; text-align: center; font-size: 14px;">第1页</div>
+  </div>
+  
+  <!-- 第二行第一张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <img src="{{ base_path }}/images/500x300.png" alt="500x300" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="padding: 10px; text-align: center; font-size: 14px;">示例图片1</div>
+  </div>
+  
+  <!-- 第二行第二张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <img src="{{ base_path }}/images/LZ.png" alt="LZ" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="padding: 10px; text-align: center; font-size: 14px;">示例图片2</div>
+  </div>
+  
+  <!-- 第二行第三张图片 -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+    <img src="{{ base_path }}/images/bio-photo.jpg" alt="bio-photo" style="width: 100%; height: auto; object-fit: contain;">
+    <div style="padding: 10px; text-align: center; font-size: 14px;">示例图片3</div>
+  </div>
 </div>
-详见个人微信公众号Orion59
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
