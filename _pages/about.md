@@ -13,9 +13,9 @@ Li Zhou, PhD(in progress), Born in 1999<br/>
 
 <p>
 <b>Education background</b>：<br/>
-1. Donghua University, College of Fashion and Design, PhD of Design Science<br/>
-2. Southwest University, College of Sericulture, Textile and Biomass Sciences, Master of Design Science（without entrance examination）<br/>
-3. Chongqing Normal University, College of FineArts, Bachelor of Fashion and Apparel Design<br/>
+1. Donghua University, College of Fashion and Design, PhD of Design Science（2025-）<br/>
+2. Southwest University, College of Sericulture, Textile and Biomass Sciences, Master of Design Science（2022-2025，without entrance examination）<br/>
+3. Chongqing Normal University, College of FineArts, Bachelor of Fashion and Apparel Design（2018-2022）<br/>
 <P/>
 
 
